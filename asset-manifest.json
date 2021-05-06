@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Nadinearar/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/Nadinearar/static/js/main.96f63843.chunk.js",
+    "main.js.map": "/Nadinearar/static/js/main.96f63843.chunk.js.map",
+    "runtime-main.js": "/Nadinearar/static/js/runtime-main.969e14c7.js",
+    "runtime-main.js.map": "/Nadinearar/static/js/runtime-main.969e14c7.js.map",
+    "static/js/2.c327a5f8.chunk.js": "/Nadinearar/static/js/2.c327a5f8.chunk.js",
+    "static/js/2.c327a5f8.chunk.js.map": "/Nadinearar/static/js/2.c327a5f8.chunk.js.map",
+    "static/js/3.ebd94a99.chunk.js": "/Nadinearar/static/js/3.ebd94a99.chunk.js",
+    "static/js/3.ebd94a99.chunk.js.map": "/Nadinearar/static/js/3.ebd94a99.chunk.js.map",
+    "index.html": "/Nadinearar/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/Nadinearar/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.c327a5f8.chunk.js.LICENSE.txt": "/Nadinearar/static/js/2.c327a5f8.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Nadinearar/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.969e14c7.js",
+    "static/js/2.c327a5f8.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.96f63843.chunk.js"
+  ]
+}
